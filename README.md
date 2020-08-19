@@ -1,4 +1,4 @@
-##WSL Setup
+## WSL Setup
 >https://www.windowscentral.com/install-windows-subsystem-linux-windows-10
 
 1. Open Settings
@@ -9,7 +9,7 @@
 6. Click the "OK" button
 7. Click the "Restart now" button
 
-##Installing Linux distros using Microsoft Store:
+## Installing Linux distros using Microsoft Store:
 
 1. Open Microsoft Store
 2. Search for a Linux distribution you would like to install
@@ -24,7 +24,7 @@ for the subsystem. Make sure you remember the password, since it will be
 required for every sudo use)*
 8. Repeat password and press the enter key to confirm
 
-##Linux Subsystem Viewing:
+## Linux Subsystem Viewing:
 >https://solarianprogrammer.com/2017/04/16/windows-susbsystem-for-linux-xfce-4/
 
 1. Launch subsystem
